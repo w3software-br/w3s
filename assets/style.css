@@ -9,12 +9,16 @@
 }
 
 .color2 {
-  color:red;
+  color:#0090d3;
 }
 
 .color3 {
   background-color: #0090d3;
   color: white
+}
+
+a {
+  color: #152848
 }
 
 .color3:hover {
