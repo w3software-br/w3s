@@ -1,0 +1,22 @@
+.color1 {
+  background-color: #152848;
+  color: white
+}
+
+.color1b {
+  background-color: white;
+  color: #152848;
+}
+
+.color2 {
+  color:red;
+}
+
+.color3 {
+  background-color: #0090d3;
+  color: white
+}
+
+.color3:hover {
+  color: #152848
+}
